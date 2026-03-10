@@ -23,7 +23,7 @@ let package = Package(
         .binaryTarget(
             name: "AzureCommunicationCalling",
             url: "https://github.com/inancyGit/SPM-CallingTest/releases/download/2.0.0/AzureCommunicationCalling-2.18.2-beta.1.zip",
-            checksum: "106ea901edfc49e18dd96440f3913e05a971b908d3b1017eceee652505846d09"
+            checksum: "fa095c19ab0cd99a9ba2242e0510474087be09a6acc41ee796200af67f65b3e2"//"106ea901edfc49e18dd96440f3913e05a971b908d3b1017eceee652505846d09"
         ),
         .binaryTarget(
             name: "AzureCommunicationCommon",
